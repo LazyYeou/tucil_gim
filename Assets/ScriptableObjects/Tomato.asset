@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f211c726d75f500428f0e66f2afa7988, type: 3}
   m_Name: Tomato
   m_EditorClassIdentifier: 
-  cropName: 
-  seedSprite: {fileID: 0}
-  wateredSprite: {fileID: 0}
-  grownSprite: {fileID: 0}
-  growthTime: 0
-  sellPrice: 0
+  cropName: Tomato
+  seedSprite: {fileID: -1646190816, guid: 9d38189049cdf644ca3f2ce6d6cd3f3d, type: 3}
+  wateredSprite: {fileID: -1646190816, guid: 9d38189049cdf644ca3f2ce6d6cd3f3d, type: 3}
+  grownSprite: {fileID: 4725554419020189987, guid: bff2ddffa3883124a94258ea4edbc95a, type: 3}
+  growthTime: 40
+  sellPrice: 100
