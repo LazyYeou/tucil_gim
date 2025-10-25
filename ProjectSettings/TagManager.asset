@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - FarmPlot
+  - Obstacle
+  - Trash
+  - Car
+  - Coin
   layers:
   - Default
   - TransparentFX
